@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch text     added text on my branch  added 2
+=======
+branch text     added text on my branch  X
+>>>>>>> a81b1213f1924345a904ec2c3a63b1bec3ad93b3
